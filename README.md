@@ -2,7 +2,7 @@
 
 ## Me chamo David, tenho 18 anos, sou de Tupã-SP
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=David_Marques&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=David_Marques&theme=draculastyle=for-the-badge&logo=GitHub">
 
 <p>
 
