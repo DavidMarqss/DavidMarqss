@@ -4,6 +4,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=David_Marques&theme=draculastyle=for-the-badge&logo=GitHub">
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMarqss&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p>
 
 Estudando na **Fatec-Shunji Nishimura**<br/>
