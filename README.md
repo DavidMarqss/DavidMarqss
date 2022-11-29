@@ -1,11 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=DavidMarqss&show_icons=true&theme=dracula">
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMarqss&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Me chamo David, tenho 18 anos, sou de Tupã-SP
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=David_Marques&theme=draculastyle=for-the-badge&logo=GitHub">
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMarqss&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <p>
 
